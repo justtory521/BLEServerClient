@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/QtGuiApplication4">
+    <file>B_bluetooth_ny8ose9o.jpg</file>
+    <file>ip-address.jpg</file>
+    <file>GeneratedFiles/ui_QtGuiApplication4.h</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>GreenRoundedButton.png</file>
+  </qresource>
+</RCC>

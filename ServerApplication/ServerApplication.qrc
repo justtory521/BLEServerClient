@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/ServerApplication">
+        <file>part.png</file>
+        <file>black.png</file>
+        <file>hard-blue.png</file>
+        <file>grey-background.png</file>
+        <file>GreenRoundedButton.png</file>
+        <file>button1.jpg</file>
+        <file>logo_web-01.png</file>
+        <file>oie_transparent.png</file>
+        <file>transparent-graphic-film.jpg</file>
+        <file>the-button-859345_1280.png</file>
+        <file>B_bluetooth_ny8ose9o.jpg</file>
+        <file>ip-address.jpg</file>
+    </qresource>
+    <qresource prefix="/newPrefix">
+        <file>Bluetooth-Transparent-Background.png</file>
+        <file>wp3.jpeg</file>
+        <file>wp2.jpg</file>
+        <file>wp1.jpg</file>
+    </qresource>
+</RCC>
