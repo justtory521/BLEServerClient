@@ -15,8 +15,5 @@
     </qresource>
     <qresource prefix="/newPrefix">
         <file>Bluetooth-Transparent-Background.png</file>
-        <file>wp3.jpeg</file>
-        <file>wp2.jpg</file>
-        <file>wp1.jpg</file>
     </qresource>
 </RCC>
